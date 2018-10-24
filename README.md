@@ -19,7 +19,7 @@
 19. IOI(Investment Trust OI)
 20. DOI(Dealer OI) 
 21. inf(infaltion rate)
-# My model for ETF prediction
+# Model for ETF prediction
 ### Contents of jupyter notebook
  - Regression model for Yunta50   
  - Regression model for 18 ETF
